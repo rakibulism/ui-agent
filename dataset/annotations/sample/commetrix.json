@@ -1,0 +1,33 @@
+{
+  "ui_type": "mobile_app",
+  "components": [
+    "button",
+    "navbar"
+  ],
+  "layout_pattern": "single_column",
+  "color_mode": "light",
+  "dominant_colors": [
+    "#ffffff",
+    "#000000"
+  ],
+  "design_style": [
+    "minimal"
+  ],
+  "design_patterns": [
+    "onboarding"
+  ],
+  "quality_score": {
+    "overall": 7,
+    "visual_hierarchy": 7,
+    "spacing_consistency": 6,
+    "typography": 7,
+    "color_harmony": 7,
+    "component_consistency": 7
+  },
+  "keywords": [
+    "simple",
+    "clean",
+    "dashboard"
+  ],
+  "brief_description": "Placeholder annotation for commetrix.png"
+}

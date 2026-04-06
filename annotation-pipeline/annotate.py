@@ -1,7 +1,7 @@
 import requests, json, base64
 from pathlib import Path
 
-API_KEY = "YOUR_OPENROUTER_API_KEY"  # Replace with your actual key
+API_KEY = "__Your__OpenRouter__API__Key__"  # Replace with your actual key
 URL = "https://api.openrouter.ai/v1/chat/completions"
 
 images = list(Path("../dataset/images/sample").glob("*.*"))
