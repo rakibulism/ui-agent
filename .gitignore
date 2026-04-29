@@ -6,3 +6,4 @@ dataset/annotations/
 *.safetensors
 *.bin
 *.pt
+.env
